@@ -1,0 +1,76 @@
+{
+"menu":[
+    {
+      "nombre": "hamburguesa", 
+      "descripcion" : "es una hamburguesa simple",
+      "precio": 100,
+      "imagen": "img/hamburguesas.jpg"
+    },
+    {
+      "nombre": "tacos", 
+      "descripcion" : "tacos de carne o de trompo y si lo desea se agrega queso",
+      "precio": 67,
+      "imagen": "img/tacos.jpg"
+     },
+    {
+      "nombre": "hotdog", 
+      "descripcion" : "hot dog simple con salchicha y si desea con tomate y cebolla",
+      "precio": 25,
+      "imagen": "img/hotdogs.jpg"
+     },
+     {
+      "nombre": "molletes", 
+      "descripcion" : "pan , frijoles y queso",
+      "precio": 20 ,
+      "imagen": "img/molletes.jpg"
+    },
+    {
+      "nombre": "cheescake", 
+      "descripcion" : "cheescake con fresa o frambuesa",
+      "precio": 45,
+      "imagen": "img/cheescake.jpg"
+    },
+    {
+      "nombre": "malteada", 
+      "descripcion" : "malteada de fresa, chocolate o vainilla",
+      "precio": 50,
+      "imagen": "img/malteada.jpg"
+    },
+    {
+      "nombre": "pizza", 
+      "descripcion" : "pizza del sabor que desee",
+      "precio": 78,
+      "imagen": "img/pizza.jpg"
+    },
+    {
+      "nombre": "helado", 
+      "descripcion" : "helado de sabor fresa, chocolate, vainilla, limon, menta",
+      "precio": 35,
+      "imagen": "img/helado.jpg" 
+      },
+    {
+      "nombre": "waffles", 
+      "descripcion" : "waffle con helado de sabor fresa, vainilla o chocolate",
+      "precio": 40,
+      "imagen": "img/waffles.jpg"
+      },
+    {
+      "nombre": "aguas frescas", 
+      "descripcion" : "es una agua fresca de sabor a su preferencia con hielo si lo desea",
+      "precio": 25,
+      "imagen": "img/aguas frescas.jpg"
+      },
+    {
+      "nombre": "frappe", 
+      "descripcion" : "sabor chocolate, cajeta, oreo, lechera, mazapan",
+      "precio": 59,
+      "imagen": "img/frappe.jpg"
+    },
+    {
+      "nombre": "michelada", 
+      "descripcion" : "con tajin, limon y sal en el vaso",
+      "precio": 80,
+      "imagen": "img/michelada.jpg"
+    },
+  ]
+}
